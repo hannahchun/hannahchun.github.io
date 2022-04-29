@@ -8,8 +8,8 @@ tags:
 last_modified_at: 2022-04-29T12:00:00-01:00 
 ---
 
-# Self Management
-## **Time Management**
+# **Self Management**
+## Time Management
 1. Prepare In Advance
 - Prepare your daily list the night before
   - Prioritize things based on the most urgent and important tasks
@@ -21,12 +21,13 @@ last_modified_at: 2022-04-29T12:00:00-01:00
 3. Start Early
 - Have enough time to think and plan for the coming day
 4. Increase Productivity With Prime Time
+- Do most important tasks during prime time!  
 - Prime Time
-  - Internal
-      - the time when your body is the most alert and most productive
-  - External
-      - the time when your clients and customers most available
-- Do most important tasks during prime time!   
+  + Internal
+    + the time when your body is the most alert and most productive
+  + External
+    + the time when your clients and customers most available
+ 
       
 ---
 > Your time is limited, so don't waste it   living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs  
