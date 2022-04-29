@@ -15,17 +15,17 @@ last_modified_at: 2022-04-29T12:00:00-01:00
   - Prioritize things based on the most urgent and important tasks
 2. Block out Distractions
 - Know your pattern of internal distraction
-  - * hunger, boredom, stress, and sleepiness
+  - hunger, boredom, stress, and sleepiness
 - Make technology work for you, not against you
-  - * Turn off email/chatroom alerts
+  - Turn off email/chatroom alerts
 3. Start Early
 - Have enough time to think and plan for the coming day
 4. Increase Productivity With Prime Time
 - Prime Time
   - Internal
-    - the time when your body is the most alert and most productive
+      - the time when your body is the most alert and most productive
   - External
-    - the time when your clients and customers most available
+      - the time when your clients and customers most available
 - Do most important tasks during prime time!   
       
 ---
