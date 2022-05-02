@@ -22,11 +22,11 @@ last_modified_at: 2022-04-29T12:00:00-01:00
 - Have enough time to think and plan for the coming day
 4. Increase Productivity With Prime Time
 - Do most important tasks during prime time!  
-- Prime Time    
-    - the time when your body is the most   alert and most productive               
+- Prime Time        
+  - the time when your body is the most alert and most productive                   
       
 ---
-> Your time is limited, so don't waste it   living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -Steve Jobs  
+> Your time is limited, so don't waste it   living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.  (Steve Jobs)
 
 ### Reference
 [time management](https://www.briantracy.com/blog/time-management/6-time-management-tips-to-increase-productivity-organizational-skills/)
