@@ -23,10 +23,10 @@ last_modified_at: 2022-04-29T12:00:00-01:00
 4. Increase Productivity With Prime Time
 - Do most important tasks during prime time!  
 - Prime Time
-  + Internal
-    + the time when your body is the most alert and most productive
-  + External
-    + the time when your clients and customers most available
+  + Internal  
+      + the time when your body is the most alert and most productive        
+  + External    
+      + the time when your clients and customers most available    
  
       
 ---
